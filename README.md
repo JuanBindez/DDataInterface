@@ -2,9 +2,9 @@
 
 ### Install:
 
-    pip install -r requirements.txt 
+    pip install -r requirements.txt --break-system-packages
 
 
 ### Run:
 
-    streamlit run main.py --break-system-packages
+    streamlit run main.py
